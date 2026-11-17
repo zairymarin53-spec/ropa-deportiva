@@ -1,0 +1,6 @@
+{
+  "name": "CADENCIA — Indumentaria Deportiva Técnica",
+  "description": "Catálogo de ropa deportiva técnica con precios, galería de productos, servicios de confección y personalización para atletas y clubes, y contacto personalizado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
